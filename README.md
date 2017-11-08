@@ -1,9 +1,9 @@
 # GDAX Rainmeter Ticker
 
-Name=GDAX_TICKER
-Author=Interbiznw.com
-Version=1.0
-
+	Name=GDAX_TICKER
+	Author=Interbiznw.com
+	Version=1.0
+	
 	You can change the currency pairs in the skin, left a couple commented.
 
 	If you like the skin send some love my way =)
