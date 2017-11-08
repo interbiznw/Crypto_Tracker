@@ -6,3 +6,4 @@ Added Update time from API to display in Local time zone and cleaner format. Als
 
 New version LUA is needed for time conversion script from Unix Epoch time that is given in API Response from GDAX.
 
+![alt text](https://raw.githubusercontent.com/interbiznw/Crypto_Tracker/mater/2017-11-08%2009_10_32-.png)
