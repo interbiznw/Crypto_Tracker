@@ -1,4 +1,4 @@
-# Crypto_Tracker
+# GDAX Rainmeter Ticker
 
 GDAX Crypto ticker with 20 second update interval displaying BTC, ETH and LTC Crypto prices from GDAX's API.
 
